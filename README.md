@@ -32,16 +32,16 @@
 
 **[happy-380.github.io/Lumina-Website](https://happy-380.github.io/Lumina-Website)**
 
-一套能拆开、带走、断网继续用的工具。六个项目共享同一个前提：模型应该待在它该跑的地方——你的电脑里。[reference:2]
+一套能拆开、带走、断网继续用的工具。六个项目共享同一个前提：模型应该待在它该跑的地方——你的电脑里。
 
 | 项目 | 状态 | 一句话 |
 | :--- | :--- | :--- |
-| **Lumina AI Core** | ✅ 可用 | 本地大模型对话内核，支持语义缓存、MCP 工具选择与米娅语气转换[reference:3] |
-| **Lumina Engine** | ✅ 可用 | 基于 llama.cpp 的 Q1_0 推理分支，把 1-bit 模型压进 CPU[reference:4] |
-| **Lumina Voice** | 🚧 活跃开发  | 六种语言的离线 TTS，断网也能开口[reference:5] |
-| **Lumina Artist** | 🚧 活跃开发 | 纯 C/C++ 的 diffusion 工作台，先画角色，再画你的画[reference:6] |
-| **Lumina Animate** | 🧪 原型 | 把埃文和米娅做成像素小人，眨眼、走路、跟着鼠标看[reference:7] |
-| **Lumina AR** | 📐 图纸中 | 让角色从设定稿里走出来，站到你的桌面上[reference:8] |
+| **Lumina AI Core** | ✅ 可用 | 本地大模型对话内核，支持语义缓存、MCP 工具选择与米娅语气转换 |
+| **Lumina Engine** | ✅ 可用 | 基于 llama.cpp 的 Q1_0 推理分支，把 1-bit 模型压进 CPU |
+| **Lumina Voice** | 🚧 活跃开发  | 六种语言的离线 TTS，断网也能开口 |
+| **Lumina Artist** | 🚧 活跃开发 | 纯 C/C++ 的 diffusion 工作台，先画角色，再画你的画 |
+| **Lumina Animate** | 🧪 原型 | 把埃文和米娅做成像素小人，眨眼、走路、跟着鼠标看 |
+| **Lumina AR** | 📐 图纸中 | 让角色从设定稿里走出来，站到你的桌面上 |
 
 埃文和米娅不单独介绍了——他们在 Core 里是两种语气，在 Voice 里是两种声线，在 Artist 里是两种画风，在 AR 里是同一张桌子上的两个猫耳。想认识他们，跑一遍 Lumina 就懂了。[reference:9]
 
